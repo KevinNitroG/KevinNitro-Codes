@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "*.env": "properties",
+        "*.toml": "properties",
+        "ostream": "cpp",
+        "string": "cpp",
+        "new": "cpp",
+        "iostream": "cpp",
+        "cmath": "cpp"
+    },
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.typeCheckingMode": "basic"
+}
