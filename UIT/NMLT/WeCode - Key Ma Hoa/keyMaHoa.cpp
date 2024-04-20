@@ -1,5 +1,5 @@
-#include <iostream>
 #include <cmath>
+#include <iostream>
 #include <vector>
 using namespace std;
 
@@ -64,5 +64,6 @@ int main()
             if (checkTichSoDacBiet(v[i], v[j]))
                 ++res;
     cout << res;
+    return 0;
     return 0;
 }
