@@ -1,3 +1,3 @@
-# KEVINNITRO CODES
+I have set Spotify always in workspace 8
 
-Repo chứa code lỏ và code test
+Also there are some warnings when I resize a window
